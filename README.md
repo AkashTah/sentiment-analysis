@@ -9,3 +9,6 @@ In sentiment analysis, we analyze the reviews given by the customers or people a
 
 # Model Architecture
 The model I am using in this project is an SVM classifier with Count Vectorisation. SVM is termed as Support Vector Machines. SVM is one of the most popular methods in machine learning for classification problems.
+
+#Dataset
+https://docs.google.com/spreadsheets/d/1hzwpyRxb0jZT4BsL7mGnmluHka2JH0YpW6b1NppkKu4/edit?usp=sharing
